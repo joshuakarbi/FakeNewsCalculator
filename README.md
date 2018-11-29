@@ -15,6 +15,3 @@
 
 # Web Portal Screenshot
 ![alt text](https://github.com/Setoville/FakeNewsCalculator/blob/master/images/webportal_V3.png)
-
-# Demo GIF
-![alt text](https://github.com/Setoville/FakeNewsCalculator/blob/master/images/demo.gif)
