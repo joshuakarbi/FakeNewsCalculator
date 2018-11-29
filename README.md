@@ -13,5 +13,8 @@
 - Flask backend with custom Python utilities (ie. bing search and keyword search scripts)
 - Custom front-end web portal written in HTML, CSS, and Javascript.
 
-# Web Portal Demo (GIF)
+# Web Portal Screenshot
+![alt text](https://github.com/Setoville/FakeNewsCalculator/blob/master/images/webportal_V3.png)
+
+# Demo GIF
 ![alt text](https://github.com/Setoville/FakeNewsCalculator/blob/master/images/demo.gif)
